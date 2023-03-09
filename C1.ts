@@ -1,0 +1,1 @@
+console.log ("Ten: Huynh Trong Nguyen \nNam sinh: 1999 \nCung hoang dao: Song tu")
